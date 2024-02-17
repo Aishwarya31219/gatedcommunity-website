@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    font-family: Exo;
+    border: border-box;
+}
+.nav-bar{
+    height: 70px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #dadada;
+    
+
+}
+.nav-logo{
+
+    height: 50px;
+    width: 130px;
+    
+}
+
+.logo{
+    background-image: url(candeur-crescent-logo.webp);
+    background-size:cover ;
+    display: flex;
+    height: 50px;
+    width: 100% ;
+    }
+.panel-all{
+    display: flex;
+    gap: 3vw;
+    font-weight: bold;
+    cursor: pointer;
+    padding-bottom: 15px;
+    
+}
+.home-dec{
+    color: white;
+    background-color: #828282;
+    border-radius: 6px;
+    height: 100px;
+    width: 200px;
+}
+
+
+.logo2{
+    height: 41px;
+    width: 167px;
+    background-image: url(logo2.png);
+
+}
+nav-logo2{
+    height: 41px;
+    width: 167px;
+}
+.hero-section{
+    background-image: url(m-banner.jpg);
+    background-size: cover;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.moon-section{
+    display: flex;
+   column-gap: 20px;
+   justify-content: center;
+   align-items: center;
+   background-color: black;
+   border-radius: 1000px;
+   opacity: 0.8;
+   
+}
+.box{
+    height: 100px;
+    width: 15%
+      
+}
+.box1{
+    background-image: url(moon.jpeg);
+    background-size: cover;
+    height: 80px;
+    width: 150px;
+}
+.box2{
+    background-image: url(moon.jpeg);
+    background-size: cover;
+    height: 80px; 
+    width:150px ;
+}
+.box3{
+    background-image: url(moon.jpeg);
+    background-size: cover;
+    height: 80px;
+    width: 150px;
+}
+.box4{
+    background-image: url(moon.jpeg);
+    background-size: cover;
+    height: 80px;
+    width: 150px;
+}
+
+
+
